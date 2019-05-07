@@ -1,4 +1,4 @@
-# Universal Plus mRNA-seq with NuQuant Assay for Qubit
+# Universal Plus mRNA-Seq and Universal RNA-Seq with NuQuant Assay for Qubit
 
 ![http://www.nugen.com](https://www.nugen.com/sites/default/files/logo_0.png)  
 [www.nugen.com](http://www.nugen.com)
