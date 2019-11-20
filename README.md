@@ -3,6 +3,10 @@
 ![http://www.tecangenomics.com](https://lifesciences.tecan.com/hubfs/page_images/logo.png)  
 [www.tecangenomics.com](http://www.tecangenomics.com)
 
+## What is this application for?
+
+This application is or *both* Universal Plus mRNA-Seq and Universal RNA-Seq with NuQuant Assay for Qubit - there is no different application for Universal versus Universal Plus.
+
 ## Downloading the application
 
 Download the most recent release [here](https://github.com/nugentechnologies/NuQuant_UniversalPlus/archive/1.1.zip). Unpack the .zip archive after downloading it. (For more information about how to unpack a .zip file, see [here](https://www.wikihow.com/Unzip-a-File).)
